@@ -1,3 +1,3 @@
 package a
 
-var B = "B is a new feature in a-fork1"
+var B = "B, fixed in a-fork2"
